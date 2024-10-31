@@ -1,0 +1,52 @@
+/* style.css */
+
+/* Estilo global */
+body {
+    background-color: white; /* Fundo branco */
+    color: #333; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    padding: 20px; /* Espaçamento interno */
+}
+
+/* Estilo da imagem */
+img {
+    border-radius: 50%; /* Imagem em formato circular */
+    border: 2px solid #007bff; /* Borda azul */
+}
+
+/* Aumentando o tamanho do título */
+h1 {
+    color: #007bff; /* Cor azul para o título */
+    font-size: 2.5em; /* Ajuste o tamanho da fonte conforme desejado */
+}
+
+/* Aumentando o tamanho dos parágrafos */
+p {
+    margin: 10px 0; /* Espaçamento entre os parágrafos */
+    font-size: 1.3em; /* Ajuste o tamanho da fonte conforme desejado */
+}
+
+/* Estilo do container */
+.container {
+    border: 1px solid #007bff; /* Borda azul */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin-top: 20px; /* Margem superior */
+}
+
+/* Estilo do texto centralizado */
+.text-center {
+    text-align: center; /* Centraliza o texto */
+    color: #000000; /* Cor azul para o texto centralizado */
+}
+
+/* CSS para o quadrado do carrossel */
+.carousel-container {
+    border: 2px solid #007bff; /* Borda azul */
+    border-radius: 10px; /* Bordas arredondadas */
+    overflow: hidden; /* Para esconder os itens que saem do quadrado */
+    margin-top: 20px; /* Margem superior */
+}
+
+
+
